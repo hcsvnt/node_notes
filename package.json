@@ -1,0 +1,17 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "a notes app in node js",
+  "main": "app.js",
+  "scripts": {
+    "app": "node app.js",
+    "test": "echo no test specified"
+  },
+  "author": "hcsvnt",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "4.0.0",
+    "validator": "^13.7.0",
+    "yargs": "^17.5.1"
+  }
+}
